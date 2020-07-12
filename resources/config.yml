@@ -8,7 +8,7 @@ give-warp-item: true
 world-item: "clock"
 # Custom name
 world-item-name: "§dWorlds"
-give-world-item: true
+give-world-item: op
 # The worlds to give the items in. Example: ["world"]
 worlds: []
 ...
